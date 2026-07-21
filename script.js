@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 smartBackspace: true
             });
         }
-    }, 2800); // Wait for loading screen to finish
+    }, 2800); 
 });
 
 // ===== LOADING SCREEN =====
