@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Initialize Typed.js only after loading screen
     setTimeout(function() {
         if (document.getElementById('element')) {
             var typed = new Typed('#element', {
