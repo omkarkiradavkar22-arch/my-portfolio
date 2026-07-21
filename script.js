@@ -1,5 +1,3 @@
-// ===== TYPED.JS ANIMATION =====
-// Wait for page to load before starting Typed.js
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize Typed.js only after loading screen
     setTimeout(function() {
