@@ -37,7 +37,7 @@ window.addEventListener('load', function() {
                 revealSections();
             }, 800);
         }
-    }, 2500); // Show loading screen for 2.5 seconds
+    }, 2500); 
 });
 
 // ===== SCROLL REVEAL ANIMATIONS =====
